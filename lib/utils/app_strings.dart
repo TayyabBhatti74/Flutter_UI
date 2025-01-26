@@ -1,0 +1,40 @@
+class AppStrings{
+  static const String fontUrbanistRegular = "Urbanist-Regular";
+  static const String fontUrbanistMedium = "Urbanist-Medium";
+  static const String fontUrbanistBold = "Urbanist-Bold";
+  static const String welcomeBack = "Welcome Back";
+  static const String email = "Email";
+  static const String password = "Password";
+  static const String rememberMe = "Remember me";
+  static const String login = "Log in";
+  static const String signUp = "Sign up";
+  static const String forgotPassword = "Forgot the password?";
+  static const String continueWith = "or continue with";
+  static const String noAccount = "Don’t have an account? ";
+  static const String createAccount = "Create account";
+  static const String consumer = "Consumer";
+  static const String serviceProvider = "Service Provider";
+  static const String firstName = "First Name";
+  static const String lastName = "Last Name";
+  static const String gender = "Gender";
+  static const String phoneNumber = "Phone Number";
+  static const String confirmPassword = "Confirm Password";
+  static const String termsService = "Terms of Service";
+  static const String privacyPolicy = "Privacy Policy";
+  static const String and = " and ";
+  static const String alreadyAccount = "Already Have an account? ";
+  static const String byContinuing = "By continuing you agree to our ";
+  static const String inviteYour = "Invite your friends and get big discounts";
+  static const String inviteYourDes = "Invite  your other friends to our platform to get plenty of discounts waiting for you!";
+  static const String copyReferral = "Copy Referral link";
+  static const String sendTo = "Send to";
+  static const String myProfile = "My Profile";
+  static const String earnings = "Earnings";
+  static const String ratings = "Ratings";
+  static const String aboutMe = "About Me";
+  static const String businessLocation = "Business Location";
+  static const String bookings = "Bookings";
+  static const String myServices = "My Services";
+  static const String showMore = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore  view more...";
+
+}
